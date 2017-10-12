@@ -30,7 +30,7 @@ public class VersionUpdater {
                 reWriteHtml(path);
             }
         }
-        System.out.println("end");
+        System.out.println("end") ;
     }
 
     private static String getMd5ByFile(File file) {
